@@ -60,3 +60,4 @@ Dirk Eddelbuettel
 The packaging is provided under the GPL (version 2 or later).  The underlying
 fonts (which are _not included in this repository_) are licensed under the
 [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
+See https://github.com/regolith-linux/pkg-fonts-jetbrains-mono for details of this project.

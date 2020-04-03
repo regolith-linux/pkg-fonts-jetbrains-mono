@@ -1,3 +1,9 @@
+fonts-jetbrains-mono (1.0.1-1regolith1) eoan; urgency=medium
+
+  * Taking Dirk's work into the Regolith PPAs. 
+
+ -- Regolith Linux <regolith.linux@gmail.com>  Thu, 02 Apr 2020 20:46:29 -0700
+
 fonts-jetbrains-mono (1.0.1-0local1) unstable; urgency=low
 
   * Initial "local" package -- not uploaded to Debian as it is not
